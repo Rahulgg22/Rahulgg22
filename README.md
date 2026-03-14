@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul
 
-<!--
-**Rahulgg22/Rahulgg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Full Stack Developer | AI Enthusiast  
+🚀 Passionate about building real-world tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Interested in AI, Web Development, and Scalable Systems
+- Currently building projects in healthcare AI and automation
+- Learning advanced system design and data-driven applications
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Django, Node.js, Express  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+🔹 **DevArena** – Event Management System with blockchain based Certificate generation  
+🔹 **ForensAI** – A UFDR based investigation chatbot system  
+🔹 **Budget Tracker** – Full-stack finance tracking application  
+🔹 **Exam Management System** – Django-based exam administration system
+🔹 **SmileHorizon** – Full Stack Dental Clinic Management system
+---
+
+## 📊 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/rahul-guhagarkar/)
