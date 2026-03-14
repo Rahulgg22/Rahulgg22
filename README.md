@@ -56,4 +56,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rahul-guhagarkar/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Guhagarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-guhagarkar/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul22112005@gmail.com)
