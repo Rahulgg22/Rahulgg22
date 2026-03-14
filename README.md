@@ -27,11 +27,12 @@
 🔹 **ForensAI** – A UFDR based investigation chatbot system  
 🔹 **Budget Tracker** – Full-stack finance tracking application  
 🔹 **Exam Management System** – Django-based exam administration system
-🔹 **SmileHorizon** – Full Stack Dental Clinic Management system
+🔹 **SmileHorizon** – Django+React based dental clinic management website
+
 ---
 
 ## 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulgg22&show_icons=true&theme=radical)
 
 ---
 
